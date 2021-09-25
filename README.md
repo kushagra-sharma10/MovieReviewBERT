@@ -5,9 +5,14 @@ In this project, I aim to utilise NLP Bert Algorithm to ananlyse and classify th
 Data thereby is extracted from IMdb.
 
 Libraries/API used 
+
 keras
+
 os
+
 numpy 
+
 tensorflow 
+
 ktrain
 
